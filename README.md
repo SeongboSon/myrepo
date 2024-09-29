@@ -1,2 +1,2 @@
 # myrepo
-This is a line written from R.
+This is a test from RStudio Workbench.
